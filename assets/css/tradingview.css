@@ -1,0 +1,7 @@
+.tradingview-widget-container {
+    padding-block: 20px;
+}
+
+.chart :is(.section-title) {
+    text-align: center;
+}
